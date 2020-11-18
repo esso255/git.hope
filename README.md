@@ -1,0 +1,2 @@
+# git.hope
+cd Lazymux
